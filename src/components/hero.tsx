@@ -44,13 +44,14 @@ export function Hero() {
             transition={{ duration: 0.8 }}
           >
             <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-gray-900 dark:text-white leading-tight">
-              Advanced Cooling Technology for{" "}
-              <span className="text-blue-600 dark:text-blue-400">
+              Easy save fever cooling patches has advanced cooling technology to
+              reduce fever and after child vaccination
+              {/* <span className="text-blue-600 dark:text-blue-400">
                 Fever Relief
-              </span>
+              </span> */}
             </h1>
             <p className="mt-6 text-xl text-gray-600 dark:text-gray-300 max-w-xl">
-              Our medical-grade cooling patches provide immediate and
+              Our Easy save Fever patch cooling patches provide immediate and
               long-lasting relief for fevers, helping you and your family
               recover faster.
             </p>
@@ -65,9 +66,9 @@ export function Hero() {
                   Shop Now <ChevronRight className="ml-1 h-5 w-5" />
                 </Link>
               </Button>
-              <Button variant="outline" size="lg" asChild>
+              {/* <Button variant="outline" size="lg" asChild>
                 <Link href="#learn-more">Learn More</Link>
-              </Button>
+              </Button> */}
             </div>
 
             <div className="mt-10 grid grid-cols-1 sm:grid-cols-3 gap-6">
@@ -103,7 +104,7 @@ export function Hero() {
                 <Image
                   width={1000}
                   height={1000}
-                  src="https://images.pexels.com/photos/3985162/pexels-photo-3985162.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                  src="/WhatsApp Image 2025-05-01 at 11.57.52 AM.jpeg"
                   alt="Fever cooling patch on forehead"
                   className="object-cover rounded-2xl"
                   priority

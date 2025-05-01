@@ -28,9 +28,9 @@ import Image from "next/image";
 const products = [
   {
     id: "adult",
-    name: "Adult Cooling Patches",
+    name: "AssuHealthcare medical devices and general wellness products",
     description:
-      "Advanced cooling technology for adults, providing up to 8 hours of relief. Made in Pakistan with premium quality materials.",
+      "Our easy save fever patch cooling patches provide help to the patients with fever and other related issues",
     price: 1499,
     pricePerUnit: "PKR 250 per patch",
     quantity: "6 patches per box",

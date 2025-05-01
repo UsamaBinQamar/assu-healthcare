@@ -44,7 +44,7 @@ export function About() {
               <Image
                 width={1000}
                 height={1000}
-                src="https://images.pexels.com/photos/7089401/pexels-photo-7089401.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                src="/WhatsApp Image 2025-05-01 at 11.52.27 AM.jpeg"
                 alt="Medical researchers in laboratory"
                 className="object-cover h-full w-full"
               />

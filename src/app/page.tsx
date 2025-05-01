@@ -1,6 +1,6 @@
+import { ContactForm } from "@/components/contact-form";
 import { Hero } from "@/components/hero";
 import { About } from "@/components/about";
-import { ProductShowcase } from "@/components/product-showcase";
 import { Features } from "@/components/features";
 
 export default function Home() {
@@ -9,7 +9,7 @@ export default function Home() {
       <Hero />
       <About />
       <Features />
-      <ProductShowcase />
+      <ContactForm />
     </main>
   );
 }

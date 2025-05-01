@@ -58,7 +58,7 @@ export function Header() {
                 href="tel:+923001234567"
                 className="text-sm font-medium text-gray-700 dark:text-gray-300 hover:text-green-600 transition-colors"
               >
-                +92 300 1234567
+                +92 320 4430997
               </a>
             </div>
 
@@ -126,7 +126,7 @@ export function Header() {
                   href="tel:+923001234567"
                   className="text-base font-medium text-gray-700 dark:text-gray-300 hover:text-green-600 transition-colors"
                 >
-                  +92 300 1234567
+                  +92 320 4430997
                 </a>
               </div>
             </div>

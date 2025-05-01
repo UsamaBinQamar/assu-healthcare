@@ -99,22 +99,22 @@ export function Footer() {
                   href="tel:+923001234567"
                   className="text-sm text-gray-600 hover:text-green-600 dark:text-gray-300 dark:hover:text-green-400"
                 >
-                  +92 300 1234567
+                  +92 320 4430997
                 </a>
               </li>
               <li className="flex items-center space-x-2">
                 <Mail className="h-4 w-4 text-green-600" />
                 <a
-                  href="mailto:info@assuhealthcare.com"
+                  href="mailto:assu.healthcare@gmail.com"
                   className="text-sm text-gray-600 hover:text-green-600 dark:text-gray-300 dark:hover:text-green-400"
                 >
-                  info@assuhealthcare.com
+                  assu.healthcare@gmail.com
                 </a>
               </li>
               <li className="flex items-center space-x-2">
                 <MapPin className="h-4 w-4 text-green-600" />
                 <span className="text-sm text-gray-600 dark:text-gray-300">
-                  Karachi, Pakistan
+                  Lahore, Pakistan
                 </span>
               </li>
             </ul>

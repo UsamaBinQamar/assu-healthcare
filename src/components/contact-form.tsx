@@ -130,7 +130,7 @@ export function ContactForm() {
                       name="phone"
                       value={formData.phone}
                       onChange={handleChange}
-                      placeholder="+92 300 1234567"
+                      placeholder="+92 320 4430997"
                       className="pl-10"
                       required
                     />
